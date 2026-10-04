@@ -1,0 +1,1 @@
+ Hi, I'm Malaika — a Software Engineering graduate currently learning Software Quality Assurance (SQA) and software testing. What you'll find here - Test cases - Bug reports - Testing scripts and notes This repository documents my learning journey as I build practical testing skills.
